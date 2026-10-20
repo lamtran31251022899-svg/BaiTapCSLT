@@ -1,7 +1,6 @@
 # Buoi01_B4 - Số lớn nhất trong 3 số
 
-Sinh viên: Trần Hoàng Lâm - MSSV: [mã số]
-Ngày: 20/10/2026
+Sinh viên: Trần Hoàng Lam - MSSV: [31251022899]
 
 ## 1. Vào/ra
 - Vào: ba số a, b, c

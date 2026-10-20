@@ -1,7 +1,6 @@
 # Buoi01_B8 - Đổi số thập phân sang nhị phân
 
-Sinh viên: Trần Hoàng Lâm - MSSV: [mã số]
-Ngày: 20/10/2026
+Sinh viên: Trần Hoàng Lam - MSSV: [31251022899]
 
 ## 1. Vào/ra
 - Vào: số nguyên n ≥ 0
